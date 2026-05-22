@@ -12,7 +12,7 @@
 
 Soy Técnico en Ciberseguridad de Costa Rica, con enfoque práctico en **Soporte TI, Redes, Linux, Windows Server y Ciberseguridad defensiva**.
 
-Este GitHub funciona como un portafolio técnico donde documento laboratorios, procedimientos y proyectos prácticos para mostrar cómo analizo problemas, aplico soluciones y organizo evidencia técnica.
+Este perfil de GitHub funciona como un portafolio técnico donde documento laboratorios, procedimientos y proyectos prácticos para mostrar cómo analizo problemas, aplico soluciones y organizo evidencia técnica.
 
 Mi enfoque profesional está orientado a entornos de soporte, infraestructura, redes y seguridad defensiva, con interés en roles junior, trainee o de crecimiento técnico dentro de equipos de tecnología.
 
