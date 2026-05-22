@@ -1,6 +1,6 @@
 # Lallonerd González Serrano
 
-**Técnico en Ciberseguridad | Soporte TI Junior | Redes | Linux | Windows Server**
+**Técnico en Ciberseguridad | Soporte TI | Redes | Linux | Windows Server**
 
 📍 Costa Rica  
 🔗 LinkedIn: [Lallonerd González Serrano](https://www.linkedin.com/in/lallonerdgonzalezserrano)  
@@ -8,21 +8,22 @@
 
 ---
 
-## Sobre mí
+## Perfil profesional
 
-Soy Técnico en Ciberseguridad, orientado a oportunidades junior en **Soporte Técnico, Help Desk, Redes, Linux, Windows Server y Ciberseguridad defensiva**.
+Soy Técnico en Ciberseguridad de Costa Rica, con enfoque práctico en **Soporte TI, Redes, Linux, Windows Server y Ciberseguridad defensiva**.
 
-Actualmente documento laboratorios prácticos para demostrar habilidades técnicas, resolución de problemas, pensamiento estructurado y aprendizaje continuo.
+Este GitHub funciona como un portafolio técnico donde documento laboratorios, procedimientos y proyectos prácticos para mostrar cómo analizo problemas, aplico soluciones y organizo evidencia técnica.
 
-Mi objetivo es conseguir mi primera oportunidad formal en tecnología, aportando una base práctica en soporte TI, redes, sistemas operativos, documentación técnica y fundamentos de seguridad.
-
-Estoy abierto a oportunidades en Costa Rica, remoto, híbrido o con posibilidad de reubicación según las condiciones del puesto.
+Mi enfoque profesional está orientado a entornos de soporte, infraestructura, redes y seguridad defensiva, con interés en roles junior, trainee o de crecimiento técnico dentro de equipos de tecnología.
 
 ---
 
-## Áreas de enfoque
+## Enfoque actual
 
-- Soporte técnico y diagnóstico básico
+Actualmente estoy desarrollando un portafolio práctico basado en escenarios de TI relacionados con:
+
+- Diagnóstico y resolución de problemas técnicos
+- Soporte TI y Help Desk
 - Redes TCP/IP
 - Fundamentos de Linux
 - Windows Server
@@ -31,14 +32,14 @@ Estoy abierto a oportunidades en Costa Rica, remoto, híbrido o con posibilidad 
 - Virtualización
 - Documentación técnica
 - Ciberseguridad defensiva inicial
-- Laboratorios prácticos orientados a empleabilidad
+
+Cada laboratorio busca demostrar no solo el resultado final, sino también el proceso: objetivo, herramientas utilizadas, pasos realizados, comandos, capturas, análisis y habilidades aplicadas.
 
 ---
 
 ## Portafolio técnico
 
-Este perfil funcionará como evidencia profesional mediante laboratorios documentados.  
-Cada repositorio incluirá objetivos, pasos realizados, comandos utilizados, capturas, resultados y habilidades demostradas.
+Este perfil está organizado como evidencia verificable de aprendizaje aplicado y desarrollo profesional.
 
 ### Repositorios iniciales
 
@@ -52,14 +53,20 @@ Cada repositorio incluirá objetivos, pasos realizados, comandos utilizados, cap
 
 ---
 
-## Professional summary
+## Dirección profesional
 
-Junior IT profile from Costa Rica focused on IT Support, Networking, Linux, Windows Server and defensive Cybersecurity.
+Mi dirección profesional es consolidar un perfil técnico competitivo para oportunidades en **Soporte TI, Help Desk, Redes, administración básica de sistemas y Ciberseguridad defensiva**.
 
-This GitHub profile documents hands-on labs and technical projects as evidence of practical skills, problem-solving ability and continuous learning.
+Estoy abierto a oportunidades en Costa Rica, Latinoamérica, modalidad remota, híbrida o con posibilidad de reubicación, según las condiciones del puesto y el crecimiento profesional que represente.
+
+También continúo fortaleciendo mi inglés técnico para ampliar mi alcance laboral en entornos internacionales.
 
 ---
 
-## Objetivo profesional
+## Professional summary
 
-Construir un portafolio claro, ordenado y verificable que respalde mi búsqueda de una primera oportunidad laboral en tecnología, especialmente en roles junior de soporte TI, redes, administración básica de sistemas o ciberseguridad defensiva.
+Cybersecurity Technician from Costa Rica focused on **IT Support, Help Desk, Networking, Linux, Windows Server and defensive Cybersecurity**.
+
+This GitHub profile documents hands-on labs and technical projects as evidence of practical skills, problem-solving ability, technical documentation and continuous learning.
+
+Open to opportunities in Costa Rica, Latin America, remote or hybrid roles, and relocation depending on the position requirements.
