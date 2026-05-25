@@ -43,7 +43,7 @@ Este perfil está organizado como evidencia verificable de aprendizaje aplicado 
 
 ### Repositorios iniciales
 
-- `soporte-ti-labs`
+- [soporte-ti-labs](https://github.com/lallonerdgserrano/soporte-ti-labs) - Laboratorios prácticos de soporte TI, Help Desk, diagnóstico técnico y resolución de problemas.
 - `linux-fundamentals-labs`
 - `windows-server-labs`
 - `redes-cisco-labs`
