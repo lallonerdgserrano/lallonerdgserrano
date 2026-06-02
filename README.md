@@ -1,6 +1,6 @@
 # Lallonerd González Serrano
 
-**Técnico en Ciberseguridad | Soporte TI | Redes | Linux | Windows Server**
+**Técnico en Ciberseguridad | Soporte TI | Help Desk | Redes | Windows | Linux**
 
 📍 Costa Rica  
 🔗 LinkedIn: [Lallonerd González Serrano](https://www.linkedin.com/in/lallonerdgonzalezserrano)  
