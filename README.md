@@ -2,64 +2,109 @@
 
 **Técnico en Ciberseguridad | Soporte TI | Help Desk | Redes | Windows | Linux**
 
-📍 Costa Rica  
-🔗 LinkedIn: [Lallonerd González Serrano](https://www.linkedin.com/in/lallonerdgonzalezserrano)  
+📍 Costa Rica
+🔗 LinkedIn: [Lallonerd González Serrano](https://www.linkedin.com/in/lallonerdgonzalezserrano)
 💻 GitHub: [lallonerdgserrano](https://github.com/lallonerdgserrano)
 
 ---
 
 ## Perfil profesional
 
-Soy Técnico en Ciberseguridad de Costa Rica, orientado a Soporte TI, Help Desk, redes, Windows, Linux y ciberseguridad defensiva junior.
+Soy Técnico en Ciberseguridad de Costa Rica, orientado a **Soporte TI, Help Desk, Service Desk, redes, Windows, Linux y ciberseguridad defensiva junior**.
 
-Este perfil de GitHub funciona como un portafolio técnico donde documento laboratorios, procedimientos y proyectos prácticos para mostrar cómo analizo problemas, aplico soluciones y organizo evidencia técnica.
+Este perfil de GitHub funciona como mi portafolio técnico. Aquí documento laboratorios, procedimientos y proyectos prácticos donde muestro cómo analizo problemas, aplico soluciones, organizo evidencia y redacto documentación técnica.
 
-Mi enfoque profesional está dirigido a roles de Soporte TI, Help Desk, Service Desk, redes junior y ciberseguridad defensiva, combinando atención al usuario, troubleshooting, documentación técnica y aprendizaje continuo.
+Mi objetivo profesional es conseguir mi primera oportunidad formal en áreas como **Soporte TI, Help Desk, Service Desk, Redes junior o Ciberseguridad defensiva inicial**, aportando una base sólida en atención al usuario, troubleshooting, documentación y aprendizaje continuo.
 
 ---
 
 ## Enfoque actual
 
-Actualmente estoy desarrollando un portafolio práctico basado en escenarios de TI relacionados con:
+Actualmente estoy construyendo evidencia práctica en tres líneas principales:
 
-- Diagnóstico y resolución de problemas técnicos
-- Soporte TI, Help Desk y Service Desk
-- Redes TCP/IP
-- Windows y Windows Server
-- Linux
-- Active Directory y gestión de usuarios
-- DNS y DHCP
-- Virtualización
-- Documentación técnica
-- Ciberseguridad defensiva junior
+* **Soporte TI / Help Desk:** diagnóstico de incidencias, atención a usuario, documentación de tickets, priorización y validación de soluciones.
+* **Redes y troubleshooting:** conectividad, TCP/IP, DNS, DHCP, gateway, proxy, firewall, pruebas de red y análisis básico.
+* **Ciberseguridad defensiva e IA aplicada:** fundamentos de seguridad, documentación técnica, análisis de datos, uso inicial de plataformas cloud e inteligencia artificial.
 
-Cada laboratorio busca demostrar no solo el resultado final, sino también el proceso: objetivo, problema reportado, entorno, diagnóstico, herramientas utilizadas, pasos realizados, solución aplicada, validación final, evidencias y habilidades desarrolladas.
+Cada laboratorio busca demostrar no solo el resultado final, sino también el proceso completo: objetivo, escenario, entorno, diagnóstico, herramientas utilizadas, pasos realizados, evidencias, solución aplicada, validación final y competencias desarrolladas.
 
 ---
 
-## Portafolio técnico
+## Repositorios destacados
 
-Este perfil está organizado como evidencia verificable de aprendizaje aplicado y desarrollo profesional.
+| Repositorio                                                               | Enfoque                                                                    | Descripción                                                                                                                                                |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [soporte-ti-labs](https://github.com/lallonerdgserrano/soporte-ti-labs)   | Soporte TI, Help Desk, Redes, Troubleshooting                              | Laboratorios prácticos de diagnóstico técnico, resolución de problemas, documentación de incidencias y validación de soluciones en entornos Windows/Linux. |
+| [ia-learning-labs](https://github.com/lallonerdgserrano/ia-learning-labs) | Inteligencia Artificial, IBM Watson Studio, Cloud, Machine Learning básico | Laboratorios introductorios de IA, análisis de datos y plataformas cloud, documentados paso a paso con evidencias.                                         |
 
-### Repositorio principal
+---
 
-- [soporte-ti-labs](https://github.com/lallonerdgserrano/soporte-ti-labs)  
-  Laboratorios prácticos de Soporte TI, Help Desk, redes, diagnóstico técnico y resolución de problemas.
+## Laboratorios destacados
 
-### Próximas áreas de trabajo
+### Soporte TI, Redes y Troubleshooting
 
-- Linux
-- Windows y Windows Server
-- Redes y troubleshooting
-- Active Directory y gestión de usuarios
-- Ciberseguridad defensiva junior
-- Documentación técnica y portafolio profesional
+* Diagnóstico básico de conectividad.
+* Corrección de fallo DNS en Windows.
+* Revisión de configuración IP.
+* Prueba de conectividad entre equipos.
+* Caso Help Desk: navegador sin acceso por proxy mal configurado.
+* Caso Help Desk en Jira: usuario sin acceso a Internet.
+* Priorización de tickets por impacto, urgencia y SLA.
+* Diagnóstico de equipo lento al iniciar sesión en Windows.
+* Compartir archivos entre Windows y Kali Linux.
+
+### Inteligencia Artificial y Cloud
+
+* Creación de proyecto en IBM Watson Studio y carga de dataset.
+* Aprovisionamiento de IBM Cloud Object Storage.
+* Configuración inicial de Watson Machine Learning.
+* Carga y validación de dataset CSV en un proyecto de IA.
+
+---
+
+## Habilidades técnicas
+
+* Soporte TI, Help Desk y Service Desk.
+* Atención a usuario y comunicación técnica clara.
+* Diagnóstico de hardware, software y rendimiento.
+* Windows 10, Windows Server, Linux, Kali y Ubuntu.
+* TCP/IP, IPv4, DNS, DHCP, gateway, NAT, proxy y firewall.
+* Troubleshooting con `ping`, `tracert`, `nslookup`, `ipconfig` y herramientas gráficas.
+* VMware Workstation y laboratorios virtualizados.
+* GitHub, Markdown y documentación técnica.
+* Fundamentos de ciberseguridad defensiva.
+* IBM Cloud, IBM Watson Studio y fundamentos de Machine Learning aplicado.
+
+---
+
+## Herramientas utilizadas en laboratorios
+
+* Windows 10
+* Linux / Kali Linux
+* VMware Workstation
+* Jira Service Management
+* GitHub
+* Markdown
+* IBM Cloud
+* IBM Watson Studio
+* IBM Watson Machine Learning
+* IBM Cloud Object Storage
+* Herramientas de diagnóstico de red
+* Herramientas integradas de Windows
 
 ---
 
 ## Dirección profesional
 
-Mi dirección profesional es consolidar un perfil técnico competitivo para oportunidades en **Soporte TI, Help Desk, Service Desk, Redes, Windows, Linux y Ciberseguridad defensiva junior**.
+Mi dirección profesional es consolidar un perfil técnico competitivo para oportunidades en:
+
+* Soporte Técnico
+* Help Desk / Service Desk
+* Técnico de Soporte TI
+* Redes junior
+* Soporte Windows/Linux
+* Ciberseguridad defensiva junior
+* Operaciones técnicas iniciales
 
 Estoy abierto a oportunidades en Costa Rica, Latinoamérica y modalidad remota, híbrida o presencial, según las condiciones del puesto y el crecimiento profesional que represente.
 
@@ -69,8 +114,8 @@ También continúo fortaleciendo mi inglés técnico para ampliar mi alcance lab
 
 ## Professional summary
 
-Cybersecurity Technician from Costa Rica focused on **IT Support, Help Desk, Networking, Linux, Windows Server and defensive Cybersecurity**.
+Cybersecurity Technician from Costa Rica focused on **IT Support, Help Desk, Networking, Windows, Linux and junior defensive Cybersecurity**.
 
-This GitHub profile documents hands-on labs and technical projects as evidence of practical skills, problem-solving ability, technical documentation and continuous learning.
+This GitHub profile documents hands-on labs and technical projects as evidence of practical skills, troubleshooting ability, technical documentation and continuous learning.
 
-Open to opportunities in Costa Rica, Latin America, remote or hybrid roles, and relocation depending on the position requirements.
+Currently building a practical portfolio focused on IT support, networking, Windows/Linux environments, cloud basics and introductory AI labs.
