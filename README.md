@@ -61,6 +61,10 @@ Cada laboratorio busca demostrar no solo el resultado final, sino también el pr
 * Configuración inicial de Watson Machine Learning.
 * Carga y validación de dataset CSV en un proyecto de IA.
 
+### Ciberseguridad y Hack The Box
+* Resolución y documentación de máquinas de la plataforma Hack The Box (Starting Point).
+* Reconocimiento de red, escaneo de puertos con Nmap y explotación de FTP anónimo en Fawn.
+
 ---
 
 ## Habilidades técnicas
