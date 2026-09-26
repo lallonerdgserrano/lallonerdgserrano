@@ -35,7 +35,8 @@ Cada laboratorio busca demostrar no solo el resultado final, sino también el pr
 | Repositorio                                                               | Enfoque                                                                    | Descripción                                                                                                                                                |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [soporte-ti-labs](https://github.com/lallonerdgserrano/soporte-ti-labs)   | Soporte TI, Help Desk, Redes, Troubleshooting                              | Laboratorios prácticos de diagnóstico técnico, resolución de problemas, documentación de incidencias y validación de soluciones en entornos Windows/Linux. |
-| [ia-learning-labs](https://github.com/lallonerdgserrano/ia-learning-labs) | Inteligencia Artificial, IBM Watson Studio, Cloud, Machine Learning básico | Laboratorios introductorios de IA, análisis de datos y plataformas cloud, documentados paso a paso con evidencias.                                         |
+| [ia-learning-labs](https://github.com/lallonerdgserrano/ia-learning-labs) | Inteligencia Artificial, IBM Watson Studio, Cloud, Machine Learning básico | Laboratorios introductorios de IA, análisis de datos y plataformas cloud, documentados paso a paso con evidencias. |
+| [hackthebox-labs](https://github.com/lallonerdgserrano/hackthebox-labs) | Ciberseguridad, Hack The Box, Pentesting | Laboratorios prácticos documentando la resolución de máquinas, escaneo de redes y explotación de vulnerabilidades. |
 
 ---
 
